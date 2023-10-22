@@ -1,0 +1,750 @@
+Archive member included to satisfy reference by file (symbol)
+
+f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_divmodhi4.o)
+                              ./Src/LCD_Program.o (__divmodhi4)
+f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_exit.o)
+                              f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5/crtatmega32.o (exit)
+f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_copy_data.o)
+                              ./Src/KPAD_Program.o (__do_copy_data)
+f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_umulhisi3.o)
+                              ./Src/LCD_Program.o (__umulhisi3)
+f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_udivmodhi4.o)
+                              f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              ./Src/LCD_Program.o (__ltsf2)
+f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              ./Src/LCD_Program.o (__fixunssfsi)
+f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_splitA)
+f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_zero)
+f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              ./Src/LCD_Program.o (__gtsf2)
+f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              ./Src/LCD_Program.o (__mulsf3)
+f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_inf)
+f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_nan)
+f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_pscA)
+f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o) (__fp_pscB)
+f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__fp_round)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800060 0x000000000000ffa0 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000002 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5/crtatmega32.o
+LOAD ./Src/DIO_Program.o
+LOAD ./Src/KPAD_Program.o
+LOAD ./Src/LCD_Configurations.o
+LOAD ./Src/LCD_Program.o
+LOAD ./Src/main.o
+START GROUP
+LOAD f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a
+LOAD f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a
+LOAD f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libc.a
+LOAD f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libatmega32.a
+END GROUP
+                0x0000000000020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x000000000000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x0000000000010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x2fc6
+ *(.vectors)
+ .vectors       0x0000000000000000       0x54 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x0000000000000054                . = ALIGN (0x2)
+                0x0000000000000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000054        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000054                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem.*)
+                0x0000000000000054                . = ALIGN (0x2)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000000000000054                __ctors_start = .
+ *(.ctors)
+                0x0000000000000054                __ctors_end = .
+                0x0000000000000054                __dtors_start = .
+ *(.dtors)
+                0x0000000000000054                __dtors_end = .
+ SORT_BY_NAME(*)(.ctors)
+ SORT_BY_NAME(*)(.dtors)
+ *(.init0)
+ .init0         0x0000000000000054        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x0000000000000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000000000000054        0xc f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000060       0x16 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_copy_data.o)
+                0x0000000000000060                __do_copy_data
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000000000000076        0x8 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ *(.init9)
+ *(.text)
+ .text          0x000000000000007e        0x4 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5/crtatmega32.o
+                0x000000000000007e                __vector_1
+                0x000000000000007e                __vector_12
+                0x000000000000007e                __bad_interrupt
+                0x000000000000007e                __vector_6
+                0x000000000000007e                __vector_3
+                0x000000000000007e                __vector_11
+                0x000000000000007e                __vector_13
+                0x000000000000007e                __vector_17
+                0x000000000000007e                __vector_19
+                0x000000000000007e                __vector_7
+                0x000000000000007e                __vector_5
+                0x000000000000007e                __vector_4
+                0x000000000000007e                __vector_9
+                0x000000000000007e                __vector_2
+                0x000000000000007e                __vector_15
+                0x000000000000007e                __vector_8
+                0x000000000000007e                __vector_14
+                0x000000000000007e                __vector_10
+                0x000000000000007e                __vector_16
+                0x000000000000007e                __vector_18
+                0x000000000000007e                __vector_20
+ .text          0x0000000000000082        0x0 ./Src/DIO_Program.o
+ .text          0x0000000000000082        0x0 ./Src/KPAD_Program.o
+ .text          0x0000000000000082        0x0 ./Src/LCD_Configurations.o
+ .text          0x0000000000000082        0x0 ./Src/LCD_Program.o
+ .text          0x0000000000000082        0x0 ./Src/main.o
+ .text          0x0000000000000082        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x0000000000000082        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_exit.o)
+ .text          0x0000000000000082        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_copy_data.o)
+ .text          0x0000000000000082        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text          0x0000000000000082        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x0000000000000082        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x0000000000000082        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x0000000000000082        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x0000000000000082        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x0000000000000082        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x0000000000000082        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x0000000000000082        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x0000000000000082        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x0000000000000082        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x0000000000000082        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x0000000000000082        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x0000000000000082        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x0000000000000082        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x0000000000000082                . = ALIGN (0x2)
+ *(.text.*)
+ .text.MDIO_voidInit
+                0x0000000000000082       0x60 ./Src/DIO_Program.o
+                0x0000000000000082                MDIO_voidInit
+ .text.MDIO_enuSetPinValue
+                0x00000000000000e2      0x248 ./Src/DIO_Program.o
+                0x00000000000000e2                MDIO_enuSetPinValue
+ .text.MDIO_enuReadPinValue
+                0x000000000000032a      0x130 ./Src/DIO_Program.o
+                0x000000000000032a                MDIO_enuReadPinValue
+ .text.MDIO_enuSetGroupValue
+                0x000000000000045a       0x7a ./Src/DIO_Program.o
+                0x000000000000045a                MDIO_enuSetGroupValue
+ .text.MDIO_enuPullUpState
+                0x00000000000004d4       0x2a ./Src/DIO_Program.o
+                0x00000000000004d4                MDIO_enuPullUpState
+ .text.MDIO_enuSetPortValue
+                0x00000000000004fe       0x84 ./Src/DIO_Program.o
+                0x00000000000004fe                MDIO_enuSetPortValue
+ .text.HKPAD_voidInit
+                0x0000000000000582       0x64 ./Src/KPAD_Program.o
+                0x0000000000000582                HKPAD_voidInit
+ .text.KPAD_uint8GetPressedKey
+                0x00000000000005e6       0xe4 ./Src/KPAD_Program.o
+                0x00000000000005e6                KPAD_uint8GetPressedKey
+ .text.HLCD_voidInit
+                0x00000000000006ca     0x12f6 ./Src/LCD_Program.o
+                0x00000000000006ca                HLCD_voidInit
+ .text.HLCD_voidSendData
+                0x00000000000019c0      0x612 ./Src/LCD_Program.o
+                0x00000000000019c0                HLCD_voidSendData
+ .text.HLCD_voidSendCommand
+                0x0000000000001fd2      0x612 ./Src/LCD_Program.o
+                0x0000000000001fd2                HLCD_voidSendCommand
+ .text.HLCD_voidGoTo
+                0x00000000000025e4       0x40 ./Src/LCD_Program.o
+                0x00000000000025e4                HLCD_voidGoTo
+ .text.HLCD_voidSendString
+                0x0000000000002624       0x60 ./Src/LCD_Program.o
+                0x0000000000002624                HLCD_voidSendString
+ .text.HLCD_voidSendOneNumber
+                0x0000000000002684       0x26 ./Src/LCD_Program.o
+                0x0000000000002684                HLCD_voidSendOneNumber
+ .text.HLCD_voidSendNumbers
+                0x00000000000026aa      0x114 ./Src/LCD_Program.o
+                0x00000000000026aa                HLCD_voidSendNumbers
+ .text.main     0x00000000000027be      0x28e ./Src/main.o
+                0x00000000000027be                main
+ .text.Program_voidSendTwoDigits
+                0x0000000000002a4c       0x46 ./Src/main.o
+                0x0000000000002a4c                Program_voidSendTwoDigits
+ .text.Program_uint8Pressed
+                0x0000000000002a92       0x28 ./Src/main.o
+                0x0000000000002a92                Program_uint8Pressed
+ .text.Program_voidSendTime
+                0x0000000000002aba       0x60 ./Src/main.o
+                0x0000000000002aba                Program_voidSendTime
+ .text.Program_voidStartTime
+                0x0000000000002b1a      0x204 ./Src/main.o
+                0x0000000000002b1a                Program_voidStartTime
+ .text.libgcc.mul
+                0x0000000000002d1e        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.div
+                0x0000000000002d1e       0x28 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_divmodhi4.o)
+                0x0000000000002d1e                _div
+                0x0000000000002d1e                __divmodhi4
+ .text.libgcc   0x0000000000002d46        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000002d46        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000002d46        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000002d46        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000002d46        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000002d46        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000002d46        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000002d46        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000002d46        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000002d46        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000002d46        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000002d46        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000002d46        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000002d46        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000002d46        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000002d46        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000002d46        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000002d46        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000002d46        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000002d46       0x1e f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_umulhisi3.o)
+                0x0000000000002d46                __umulhisi3
+ .text.libgcc.div
+                0x0000000000002d64        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x0000000000002d64        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000002d64        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000002d64        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000002d64        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x0000000000002d64        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.mul
+                0x0000000000002d64        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x0000000000002d64       0x28 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_udivmodhi4.o)
+                0x0000000000002d64                __udivmodhi4
+ .text.libgcc   0x0000000000002d8c        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000002d8c        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000002d8c        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000002d8c        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000002d8c        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .text.avr-libc.fplib
+                0x0000000000002d8c        0xa f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                0x0000000000002d8c                __nesf2
+                0x0000000000002d8c                __eqsf2
+                0x0000000000002d8c                __cmpsf2
+                0x0000000000002d8c                __ltsf2
+                0x0000000000002d8c                __lesf2
+ .text.avr-libc.fplib
+                0x0000000000002d96       0x5e f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x0000000000002d96                __fixunssfsi
+ .text.avr-libc.fplib
+                0x0000000000002df4       0x48 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x0000000000002df4                __fp_cmp
+ .text.avr-libc.fplib
+                0x0000000000002e3c       0x44 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x0000000000002e3c                __fp_split3
+                0x0000000000002e4c                __fp_splitA
+ .text.avr-libc.fplib
+                0x0000000000002e80        0xe f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x0000000000002e80                __fp_zero
+                0x0000000000002e82                __fp_szero
+ .text.avr-libc.fplib
+                0x0000000000002e8e        0xa f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x0000000000002e8e                __gesf2
+                0x0000000000002e8e                __gtsf2
+ .text.avr-libc.fplib
+                0x0000000000002e98        0x8 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x0000000000002e98                __mulsf3
+ .text.avr-libc.fplib
+                0x0000000000002ea0       0xd2 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x0000000000002ebe                __mulsf3x
+                0x0000000000002ec4                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x0000000000002f72        0xc f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x0000000000002f72                __fp_inf
+ .text.avr-libc.fplib
+                0x0000000000002f7e        0x6 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x0000000000002f7e                __fp_nan
+ .text.avr-libc.fplib
+                0x0000000000002f84        0xe f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x0000000000002f84                __fp_pscA
+ .text.avr-libc.fplib
+                0x0000000000002f92        0xe f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x0000000000002f92                __fp_pscB
+ .text.avr-libc.fplib
+                0x0000000000002fa0       0x22 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x0000000000002fa0                __fp_round
+                0x0000000000002fc2                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000002fc2        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_exit.o)
+                0x0000000000002fc2                _exit
+                0x0000000000002fc2                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000002fc2        0x4 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+ *(.hightext)
+ *(.hightext*)
+ *(.progmemx.*)
+                0x0000000000002fc6                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+                0x0000000000002fc6                _etext = .
+
+.data           0x0000000000800060       0x32 load address 0x0000000000002fc6
+                0x0000000000800060                PROVIDE (__data_start = .)
+ *(.data)
+ .data          0x0000000000800060        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .data          0x0000000000800060        0x0 ./Src/DIO_Program.o
+ .data          0x0000000000800060        0x0 ./Src/KPAD_Program.o
+ .data          0x0000000000800060        0x0 ./Src/LCD_Configurations.o
+ .data          0x0000000000800060        0x0 ./Src/LCD_Program.o
+ .data          0x0000000000800060        0x0 ./Src/main.o
+ .data          0x0000000000800060        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x0000000000800060        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_exit.o)
+ .data          0x0000000000800060        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_copy_data.o)
+ .data          0x0000000000800060        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x0000000000800060        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000800060        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x0000000000800060        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x0000000000800060        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x0000000000800060        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x0000000000800060        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x0000000000800060        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x0000000000800060        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x0000000000800060        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x0000000000800060        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x0000000000800060        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x0000000000800060        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x0000000000800060        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x0000000000800060        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ *(.data*)
+ .data.global_KPADCol
+                0x0000000000800060        0x4 ./Src/KPAD_Program.o
+                0x0000000000800060                global_KPADCol
+ .data.global_KPADRow
+                0x0000000000800064        0x4 ./Src/KPAD_Program.o
+                0x0000000000800064                global_KPADRow
+ .data.global_KPADKeys
+                0x0000000000800068       0x10 ./Src/KPAD_Program.o
+                0x0000000000800068                global_KPADKeys
+ .data.LCD_Configurations
+                0x0000000000800078        0xd ./Src/LCD_Configurations.o
+                0x0000000000800078                LCD_Configurations
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x0000000000800085        0xd ./Src/main.o
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x0000000000800092                . = ALIGN (0x2)
+                0x0000000000800092                _edata = .
+                0x0000000000800092                PROVIDE (__data_end = .)
+
+.bss            0x0000000000800092        0x0
+                [!provide]                        PROVIDE (__bss_start = .)
+ *(.bss)
+ .bss           0x0000000000800092        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .bss           0x0000000000800092        0x0 ./Src/DIO_Program.o
+ .bss           0x0000000000800092        0x0 ./Src/KPAD_Program.o
+ .bss           0x0000000000800092        0x0 ./Src/LCD_Configurations.o
+ .bss           0x0000000000800092        0x0 ./Src/LCD_Program.o
+ .bss           0x0000000000800092        0x0 ./Src/main.o
+ .bss           0x0000000000800092        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x0000000000800092        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_exit.o)
+ .bss           0x0000000000800092        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_copy_data.o)
+ .bss           0x0000000000800092        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x0000000000800092        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000800092        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x0000000000800092        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x0000000000800092        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x0000000000800092        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x0000000000800092        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x0000000000800092        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x0000000000800092        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x0000000000800092        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x0000000000800092        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x0000000000800092        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x0000000000800092        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x0000000000800092        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x0000000000800092        0x0 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ *(.bss*)
+ *(COMMON)
+                [!provide]                        PROVIDE (__bss_end = .)
+                0x0000000000002fc6                __data_load_start = LOADADDR (.data)
+                0x0000000000002ff8                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800092        0x0
+                [!provide]                        PROVIDE (__noinit_start = .)
+ *(.noinit .noinit.* .gnu.linkonce.n.*)
+                [!provide]                        PROVIDE (__noinit_end = .)
+                0x0000000000800092                _end = .
+                [!provide]                        PROVIDE (__heap_start = .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x0000000000000000     0x2b08
+ *(.stab)
+ .stab          0x0000000000000000      0x768 ./Src/DIO_Program.o
+ .stab          0x0000000000000768      0x2dc ./Src/KPAD_Program.o
+                                        0x2e8 (size before relaxing)
+ .stab          0x0000000000000a44       0x48 ./Src/LCD_Configurations.o
+                                         0x54 (size before relaxing)
+ .stab          0x0000000000000a8c     0x1830 ./Src/LCD_Program.o
+                                       0x183c (size before relaxing)
+ .stab          0x00000000000022bc      0x84c ./Src/main.o
+                                        0x858 (size before relaxing)
+
+.stabstr        0x0000000000000000      0xae8
+ *(.stabstr)
+ .stabstr       0x0000000000000000      0xae8 ./Src/DIO_Program.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x12
+ *(.comment)
+ .comment       0x0000000000000000       0x12 ./Src/DIO_Program.o
+                                         0x13 (size before relaxing)
+ .comment       0x0000000000000012       0x13 ./Src/KPAD_Program.o
+ .comment       0x0000000000000012       0x13 ./Src/LCD_Configurations.o
+ .comment       0x0000000000000012       0x13 ./Src/LCD_Program.o
+ .comment       0x0000000000000012       0x13 ./Src/main.o
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5/crtatmega32.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0xa0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .debug_aranges
+                0x0000000000000020       0x20 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_exit.o)
+ .debug_aranges
+                0x0000000000000040       0x20 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x0000000000000060       0x20 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .debug_aranges
+                0x0000000000000080       0x20 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_udivmodhi4.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000      0x59a
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x4e6 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_info    0x00000000000004e6       0x24 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .debug_info    0x000000000000050a       0x24 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_exit.o)
+ .debug_info    0x000000000000052e       0x24 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_copy_data.o)
+ .debug_info    0x0000000000000552       0x24 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .debug_info    0x0000000000000576       0x24 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_udivmodhi4.o)
+
+.debug_abbrev   0x0000000000000000      0x507
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x4a3 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_abbrev  0x00000000000004a3       0x14 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .debug_abbrev  0x00000000000004b7       0x14 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_exit.o)
+ .debug_abbrev  0x00000000000004cb       0x14 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_copy_data.o)
+ .debug_abbrev  0x00000000000004df       0x14 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .debug_abbrev  0x00000000000004f3       0x14 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_udivmodhi4.o)
+
+.debug_line     0x0000000000000000      0x308
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0x1d f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_line    0x000000000000001d       0xb7 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .debug_line    0x00000000000000d4       0x51 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_exit.o)
+ .debug_line    0x0000000000000125       0x87 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_copy_data.o)
+ .debug_line    0x00000000000001ac       0x9f f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .debug_line    0x000000000000024b       0xbd f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_udivmodhi4.o)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000      0x1f8
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x199 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/../../../../avr/lib/avr5/crtatmega32.o
+ .debug_str     0x0000000000000199       0x5f f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_divmodhi4.o)
+ .debug_str     0x00000000000001f8       0x5f f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_exit.o)
+ .debug_str     0x00000000000001f8       0x5f f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_copy_data.o)
+ .debug_str     0x00000000000001f8       0x5f f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .debug_str     0x00000000000001f8       0x5f f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_udivmodhi4.o)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x0000000000000000       0x53
+ *(.debug_line_str)
+ .debug_line_str
+                0x0000000000000000       0x53 f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_divmodhi4.o)
+                                         0x5f (size before relaxing)
+ .debug_line_str
+                0x0000000000000053       0x5f f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_exit.o)
+ .debug_line_str
+                0x0000000000000053       0x5f f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_copy_data.o)
+ .debug_line_str
+                0x0000000000000053       0x5f f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_umulhisi3.o)
+ .debug_line_str
+                0x0000000000000053       0x5f f:/programs/avr-gcc-12.1.0-x64-windows/avr-gcc-12.1.0-x64-windows/bin/../lib/gcc/avr/12.1.0/avr5\libgcc.a(_udivmodhi4.o)
+
+.debug_loclists
+ *(.debug_loclists)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+ *(.debug_rnglists)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+OUTPUT(StopWatch.elf elf32-avr)
+LOAD linker stubs
